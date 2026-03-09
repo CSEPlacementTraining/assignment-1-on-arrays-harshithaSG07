@@ -9,7 +9,7 @@ class Assignment1 {
     }
     year++;
   }
-  return leapYear;
+  return leapYears;
 }
   public static void main(String[] args) {
     int year = 2000;
