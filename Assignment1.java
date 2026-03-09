@@ -16,7 +16,7 @@ class Assignment1 {
     int[] leapYears;
     leapYears = findLeapYears(year);
     for (int index = 0; index < leapYears.length; index++) {
-      System.out.print(leapYears[index]);
+      System.out.println(leapYears[index]);
     }
   }
 }
